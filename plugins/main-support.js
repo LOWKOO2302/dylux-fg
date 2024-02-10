@@ -2,27 +2,27 @@
 let handler = async (m, { conn }) => {
 
 m.reply(`
-≡  *DyLuxᴮᴼᵀ ┃ SUPPORT*
+≡  *🤖┃ ᴮᴼᵀ ┃ SUPPORT*
 
 ◈ ━━━━━━━━━━━━━━━━━━━━ ◈
-▢ Grupo *1*
-${dygp}
+▢ SOLO LINKS Grupo *1*
+https://chat.whatsapp.com/FyEjePGLCOr701GxnvvbQI
 
-▢ Grupo *2*
-https://chat.whatsapp.com/I7bvd8XCAOUHjgkHteqFC7
+▢ ENLACES Y PELICULAS Grupo *2*
+https://chat.whatsapp.com/HvzT09WBkuG9DIa7e4zMuE
 
-▢ Grupo *NSFW* 🔞
-https://chat.whatsapp.com/F0JTTyZ3hsoL7OlU8TEpuH
+▢ LETS PLAYS JUEGOS APK Grupo *3*
+https://chat.whatsapp.com/Hq2bBBAg3bpBDo1Zrpfw3Y
 
-▢ 𝐌𝐘 - 𝐌𝐚𝐲𝐥𝐮𝐱 | ᴮᴼᵀ⚡
-https://chat.whatsapp.com/CTILZXSriIE3M40anVyPT4
+▢ PELICULAS Y SERIES Grupo *4*
+https://chat.whatsapp.com/EST7ZYKGBvQ2v4ZSTHIGSd
 
-▢ 📲💻ANDROID WORLD🎬🎮
-https://chat.whatsapp.com/Ly4I2LObSvW8VgOnJjofgA
+▢ MUSICAS
+https://chat.whatsapp.com/GtXAWDlphvw3XHcb7scmdw
 
 ◈ ━━━━━━━━━━━━━━━━━━━━ ◈
-▢ Todos los Grupos
- https://instabio.cc/fg98ff
+▢ STICKERS SANOS
+ https://chat.whatsapp.com/JiqP6NTNWbw84kmJKO5U8x
 
 ▢ *Telegram*
 • https://t.me/fgawgp
