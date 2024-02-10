@@ -51,12 +51,12 @@ let infobt = `
 ▢ *${chats.length - groupsIn.length}* Chats privados
 ▢ *${chats.length}* Total Chats
 
-*≡ OWNER*
-  *FG98*
+*≡ OWNER-CEO*
+  *🤖┃ ᴮᴼᵀ*
 ▢ Instagram :
   • https://instagram.com/fg98_ff
 ▢ WhatsApp :
-  • (escribe solo si es necesario) 
+  • https://chat.whatsapp.com/HvzT09WBkuG9DIa7e4zMuE
 ▢ GitHub :
   • https://github.com/FG98F
 ▢ Telegram : 
@@ -66,11 +66,11 @@ let infobt = `
 ▢ YouTube : 
   • https://youtube.com/fg98f
   
- *≡ HELPERS*
-  *CRISS*
+ *≡ CO-OWNER*
+  *SANDY*
 ▢ Instagram : https://www.instagram.com/sayurizuniga3
 ▢ WhatsApp : wa.me/
-  *ANDREA*
+  *LOWKOO*
 ▢ Instagram : https://
 ▢ WhatsApp : wa.me/573125484672
 
