@@ -21,7 +21,7 @@ let handler = async (m, { conn, text, args, isPrems, isOwner, usedPrefix, comman
   let title = await yt.title
   let size = await (isVideo ? yt.video[q].fileSizeH : yt.audio[q].fileSizeH)
   let play = `
-	≡ *FG MUSIC*
+	≡ *🤖┃ ᴮᴼᵀ MUSIC*
 ┌──────────────
 ▢ 📌 *Título* : ${vid.title}
 ▢ 📆 *Publicado:* ${vid.ago}
