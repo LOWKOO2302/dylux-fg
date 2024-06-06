@@ -34,6 +34,6 @@ https://chat.whatsapp.com/GtXAWDlphvw3XHcb7scmdw
 }
 handler.help = ['support']
 handler.tags = ['main']
-handler.command = ['grupos', 'groupdylux', 'dxgp', 'dygp', 'gpdylux', 'support'] 
+handler.command = ['grupos', 'lowkoogp', 'gplk', 'lowkoo', 'gpdylux', 'support'] 
 
 export default handler
