@@ -2,9 +2,13 @@
 let handler = async (m, { conn }) => {
 
 m.reply(`
-≡  *🤖┃ ᴮᴼᵀ ┃ SUPPORT GROUPS LINKS*
+≡  *🤖┃ ᴮᴼᵀ ┃ UNETE A NUESTROS GRUPOS*
 
 ◈ ━━━━━━━━━━━━━━━━━━━━ ◈
+┃ 𒀯  Ⲙ  ⵡ  Ⲡ  Ɗ  Ⲟ  𒂶 𐓈𝛯  𐤠Ƿ𝙊☈Ʈ𝛯Ⲋ   ➊➑⁺ 💬  𒀯 ┃
+▢ 
+https://chat.whatsapp.com/Ke1Aghdz0QVII6kyXSQv7E
+
 ▢ ┃𒀯 ⛓️ ᏕᎧᏝᎧ  𒂶  ᏝᎥᏁᏦᏕ  ➊➑⁺  𒀯┃
 https://chat.whatsapp.com/FyEjePGLCOr701GxnvvbQI
 
@@ -23,13 +27,6 @@ https://chat.whatsapp.com/GtXAWDlphvw3XHcb7scmdw
 ▢ ┃😍 🌺 丂ㄒ🍄匚Ҝ乇尺丂 🎭 𒂶 ✨ 𐔣ᵃⁿᵒˢ 𒀭 💓 🤩 ┃
 https://chat.whatsapp.com/JiqP6NTNWbw84kmJKO5U8x
 ◈ ━━━━━━━━━━━━━━━━━━━━ ◈
-
-▢ *Telegram*
-• https://t.me/fgawgp
- ▢ *PayPal*
-• https://paypal.me/fg98f
-▢ *YouTube*
-• https://www.youtube.com/fg98f`)
 
 }
 handler.help = ['support']
