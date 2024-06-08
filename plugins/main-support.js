@@ -26,7 +26,7 @@ https://chat.whatsapp.com/GtXAWDlphvw3XHcb7scmdw
 
 ▢ ┃😍 🌺 丂ㄒ🍄匚Ҝ乇尺丂 🎭 𒂶 ✨ 𐔣ᵃⁿᵒˢ 𒀭 💓 🤩 ┃
 https://chat.whatsapp.com/JiqP6NTNWbw84kmJKO5U8x
-◈ ━━━━━━━━━━━━━━━━━━━━ ◈
+◈ ━━━━━━━━━━━━━━━━━━━━ ◈')
 
 }
 handler.help = ['support']
