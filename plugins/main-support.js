@@ -28,12 +28,12 @@ https://chat.whatsapp.com/GtXAWDlphvw3XHcb7scmdw
 https://chat.whatsapp.com/JiqP6NTNWbw84kmJKO5U8x
 ◈ ━━━━━━━━━━━━━━━━━━━━ ◈
 
-▢ 
-• 
- ▢ 
-• 
-▢ *YouTube*
-• SOON/PRONTO`)
+
+
+ 
+
+▢ *ADMIN*
+• ᏝᎧᏇᏦᎧᎧ ➘ 👽`)
 
 
 }
