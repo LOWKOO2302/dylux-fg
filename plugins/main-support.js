@@ -21,16 +21,12 @@ https://chat.whatsapp.com/Hq2bBBAg3bpBDo1Zrpfw3Y
 ▢ ┃🎬⃤🍿 Ꭾ𝜩Ꮭ༏ᏨปᏝ𐤠Ⲋ  𒂶  Ⲋ𝜩☈༏𝜩Ⲋ 📽️⃤🖥️ ┃
 https://chat.whatsapp.com/EST7ZYKGBvQ2v4ZSTHIGSd
 
-▢ ┃🎙️⃤📲  ☈𝛯Ɗ𝛯ꗟ  𒂶  ꗟ𝙊Ꮸ༏𞋙꤈𝛯ꗟ  📡⃤📺┃
+▢ ┃✨💓⃤Ɯ𐤠꤈꤈Ꭾ𐤠Ꭾ𝜩☈'Ⲋ 𒂶 Ꝼ𐔖ꤚⱰ𐔖Ⲋ Ɗᵉ Ꭾᵃⁿᵗᵃˡˡᵃˢ 🌌⃤✨┃
 https://chat.whatsapp.com/GtXAWDlphvw3XHcb7scmdw
 
 ▢ ┃😍 🌺 丂ㄒ🍄匚Ҝ乇尺丂 🎭 𒂶 ✨ 𐔣ᵃⁿᵒˢ 𒀭 💓 🤩 ┃
 https://chat.whatsapp.com/JiqP6NTNWbw84kmJKO5U8x
 ◈ ━━━━━━━━━━━━━━━━━━━━ ◈
-
-
-
- 
 
 ▢ *ADMIN*
 • ᏝᎧᏇᏦᎧᎧ ➘ 👽`)
