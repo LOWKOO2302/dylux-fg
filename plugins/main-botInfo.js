@@ -64,7 +64,7 @@ let infobt = `
  *≡ GROUP OWNERS*
  
 ▢ *ᏝᎧᏇᏦᎧᎧ ➘ 👽⁩*
-▢ WhatsApp : wa.me/7745528405
+▢ WhatsApp : wa.me/7745198093
   
 ▢ *Sandy*
 ▢ WhatsApp : wa.me/590690654647
