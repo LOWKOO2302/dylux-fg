@@ -51,28 +51,23 @@ let infobt = `
 ▢ *${chats.length - groupsIn.length}* Chats privados
 ▢ *${chats.length}* Total Chats
 
-*≡ OWNER-CEO*
+*≡ GROUP CEO*
   *🤖┃ ᴮᴼᵀ*
-▢ Instagram :
-  • https://instagram.com/fg98_ff
+  
+▢ FaceBook Official :
+  • https://www.facebook.com/share/J9wPnWczeFD4A2pV/?mibextid=A7sQZp
 ▢ WhatsApp :
   • https://chat.whatsapp.com/HvzT09WBkuG9DIa7e4zMuE
-▢ GitHub :
-  • https://github.com/FG98F
-▢ Telegram : 
-  • t.me/fgsupp_bot (FG) 
-  • t.me/fg98ff (canal)
-  • t.me/fgawgp (grupo)
 ▢ YouTube : 
   • https://youtube.com/fg98f
   
- *≡ CO-OWNER*
-  *SANDY*
-▢ Instagram : https://www.instagram.com/sayurizuniga3
-▢ WhatsApp : wa.me/
-  *LOWKOO*
-▢ Instagram : https://
-▢ WhatsApp : wa.me/573125484672
+ *≡ GROUP OWNERS*
+ 
+▢ *ᏝᎧᏇᏦᎧᎧ ➘ 👽⁩*
+▢ WhatsApp : wa.me/7745528405
+  
+▢ *Sandy*
+▢ WhatsApp : wa.me/590690654647
 
  *≡ S E R V E R*
 *🛑 RAM:* ${format(totalmem() - freemem())} / ${format(totalmem())}
