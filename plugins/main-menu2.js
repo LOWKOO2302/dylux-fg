@@ -9,7 +9,7 @@ let m2 = `
 ▢ Si tienes más  audios   
 envíame por t.me/fgsupp_bot el *audio + comando* con en el que responderá
 
-┌─⊷ *AUDIOS* 
+┌─⊷ *🤖┃ ᴮᴼᵀ AUDIOS* 
 ▢ Bot
 ▢ Buenos días
 ▢ Buenas tardes 
