@@ -2,27 +2,27 @@
 let handler = async (m, { conn }) => {
 
 m.reply(`
-≡  *DyLuxᴮᴼᵀ ┃ SUPPORT*
+≡  *🤖┃ ᴮᴼᵀ SUPPORT*
 
 ◈ ━━━━━━━━━━━━━━━━━━━━ ◈
-▢ Grupo *1*
-${dygp}
+▢ *ENLACES Y PELÍCULAS* 
+https://chat.whatsapp.com/HvzT09WBkuG9DIa7e4zMuE
 
-▢ Grupo *2*
-https://chat.whatsapp.com/I7bvd8XCAOUHjgkHteqFC7
+▢ *MUSICAS Y VIDEOS*
+https://chat.whatsapp.com/GtXAWDlphvw3XHcb7scmdw
 
-▢ Grupo *NSFW* 🔞
-https://chat.whatsapp.com/F0JTTyZ3hsoL7OlU8TEpuH
+▢ *FONDOS DE PANTALLA*
+https://chat.whatsapp.com/FTfdyf392efG8Zazl6zrMC
 
-▢ 𝐌𝐘 - 𝐌𝐚𝐲𝐥𝐮𝐱 | ᴮᴼᵀ⚡
-https://chat.whatsapp.com/CTILZXSriIE3M40anVyPT4
+▢ *STICKERS*
+https://chat.whatsapp.com/JiqP6NTNWbw84kmJKO5U8x
 
-▢ 📲💻ANDROID WORLD🎬🎮
-https://chat.whatsapp.com/Ly4I2LObSvW8VgOnJjofgA
+▢ JUEGOS ANDROID APK
+https://chat.whatsapp.com/Hq2bBBAg3bpBDo1Zrpfw3Y
 
 ◈ ━━━━━━━━━━━━━━━━━━━━ ◈
-▢ Todos los Grupos
- https://instabio.cc/fg98ff
+▢ Todos los Grupos 🔞
+https://chat.whatsapp.com/FyEjePGLCOr701GxnvvbQI
 
 ▢ *Telegram*
 • https://t.me/fgawgp
@@ -34,6 +34,6 @@ https://chat.whatsapp.com/Ly4I2LObSvW8VgOnJjofgA
 }
 handler.help = ['support']
 handler.tags = ['main']
-handler.command = ['grupos', 'groupdylux', 'dxgp', 'dygp', 'gpdylux', 'support'] 
+handler.command = ['grupos', 'grouplowkoo', 'lkgp', 'lowkoo', 'gplowkoo', 'support'] 
 
 export default handler
