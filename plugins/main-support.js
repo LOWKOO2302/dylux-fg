@@ -26,7 +26,12 @@ https://chat.whatsapp.com/FyEjePGLCOr701GxnvvbQI
 
 ▢ *ADMIN*
 • ᏝᎧᏇᏦᎧᎧ ➘ 👽 
+▢ *PayPal*
+• https://paypal.me/fg98f
+▢ *YouTube*
+• https://www.youtube.com/fg98f`)
 
+  
 }
 handler.help = ['support']
 handler.tags = ['main']
