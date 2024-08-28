@@ -2,7 +2,7 @@
 let handler = async (m, { conn }) => {
 
 m.reply(`
-≡  *🤖┃ ᴮᴼᵀ SUPPORT*
+≡  *UNETE A NUESTRO GRUPOS*
 
 ◈ ━━━━━━━━━━━━━━━━━━━━ ◈
 ▢ *ENLACES Y PELÍCULAS* 
