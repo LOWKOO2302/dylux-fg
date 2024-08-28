@@ -52,7 +52,7 @@ let infobt = `
 ▢ *${chats.length}* Total Chats
 
 *≡ OWNER*
-  *FG98*
+  *🤖┃ ᴮᴼᵀ*
 ▢ Instagram :
   • https://instagram.com/fg98_ff
 ▢ WhatsApp :
@@ -66,13 +66,13 @@ let infobt = `
 ▢ YouTube : 
   • https://youtube.com/fg98f
   
- *≡ HELPERS*
-  *CRISS*
-▢ Instagram : https://www.instagram.com/sayurizuniga3
-▢ WhatsApp : wa.me/
+ *≡ CEO*
+  *ᏝᎧᏇᏦᎧᎧ ➘ 👽*
+▢ WhatsApp Music : https://chat.whatsapp.com/GtXAWDlphvw3XHcb7scmdw
+▢ WhatsApp : wa.me/17745198093
   *ANDREA*
-▢ Instagram : https://
-▢ WhatsApp : wa.me/573125484672
+▢ WhatsApp Enlaces : https://chat.whatsapp.com/FyEjePGLCOr701GxnvvbQI
+▢ WhatsApp : wa.me/+590690564647
 
  *≡ S E R V E R*
 *🛑 RAM:* ${format(totalmem() - freemem())} / ${format(totalmem())}
