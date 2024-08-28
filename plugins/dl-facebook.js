@@ -7,7 +7,7 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
    try {
     let result = await fg.fbdl(args[0]);
     let tex = `
-┌─⊷ *FBDL*
+┌─⊷ *🤖┃ ᴮᴼᵀ FBDL*
 ▢ *Título:* ${result.title}
 └───────────`;
     conn.sendFile(m.chat, result.videoUrl, 'fb.mp4', tex, m);
