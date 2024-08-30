@@ -8,8 +8,8 @@ global.owner = [
   ['17744205538'] 
 ] //Numeros de owner 
 
-global.mods = ['17745198093'] 
-global.prems = ['17745190032', '17745198093', '17744205538']
+global.mods = ['573125484672'] 
+global.prems = ['50489079501', '5219631769130', '573125484672']
 global.APIs = { // API Prefix
   // name: 'https://website'
   xteam: 'https://api.xteam.xyz', 
