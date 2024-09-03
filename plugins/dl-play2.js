@@ -21,7 +21,7 @@ let handler = async (m, { conn, text, args, isPrems, isOwner, usedPrefix, comman
   let title = await yt.title
   let size = await (isVideo ? yt.video[q].fileSizeH : yt.audio[q].fileSizeH)
   let play = `
-	≡ *🤖┃ ᴮᴼᵀ MUSIC*
+	≡ *FG MUSIC*
 ┌──────────────
 ▢ 📌 *Título* : ${vid.title}
 ▢ 📆 *Publicado:* ${vid.ago}
@@ -35,7 +35,7 @@ conn.sendFile(m.chat, vid.thumbnail, 'play', play, m, null, rpig)
 if (size.split('MB')[0] >= limit) return m.reply(` ≡  *FG YTDL*\n\n▢ *⚖️Peso* : ${size}\n▢ *🎞️Calidad* : ${q}\n\n▢ _El archivo supera el límite de descarga_ *+${limit} MB*`) 
 if (size.includes('GB')) return m.reply(` ≡  *FG YTDL*\n\n▢ *⚖️Peso* : ${size}\n▢ *🎞️Calidad* : ${q}\n\n▢ _El archivo supera el límite de descarga_ *+${limit} MB*`)   
 	  conn.sendFile(m.chat, dl_url, title + '.mp' + (3 + /vid$/.test(command)), `
- ≡  *🤖┃ ᴮᴼᵀ YTDL*
+ ≡  *FG YTDL*
   
 ▢ *📌Título* : ${title}
 ▢ *🎞️Calidad* : ${q}
