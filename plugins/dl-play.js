@@ -27,4 +27,4 @@ handler.tags = ['dl']
 handler.command = ['play', 'playvid']
 handler.disabled = false 
 
-export default true 
+export default handler
