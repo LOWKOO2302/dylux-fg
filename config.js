@@ -19,6 +19,7 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
+  'https://api.spiderx.com.br/app?welcome=1'; 'Etcer5ZQysQADqSUJYZ9'
   'https://api.xteam.xyz': 'd90a9e986e18778b',
   'https://zenzapis.xyz': '675e34de8a', 
   'https://api.fgmods.xyz': 'dtmwuoXV' //--- 100 de límite diario --- Regístrese en https://api.fgmods.xyz/
